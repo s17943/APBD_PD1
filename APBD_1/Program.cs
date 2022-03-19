@@ -9,6 +9,9 @@ namespace Crawler
     {
         public static async Task Main(string[] args)
         {
+            
+            CheckWebAddress(args);
+            
             string websiteUrl = args[0];
             HttpClient httpClient = new HttpClient();
             HttpResponseMessage response = await httpClient.GetAsync(websiteUrl);
@@ -19,7 +22,22 @@ namespace Crawler
             foreach (var match in matchCollection)
             {
                 Console.WriteLine(match);
+                // random comment 
             }
+        }
+        private static void CheckWebAddress(IReadOnlyList<string> args)
+        {
+            if (args.Count == 0)
+            {
+                throw new ArgumentNullException();
+            }
+
+            var isURL = Uri.IsWellFormedUriString(args[0], UriKind.RelativeOrAbsolute);
+            if (isURL == false)
+            {
+                throw new ArgumentException();
+            }
+
         }
     }
 }
