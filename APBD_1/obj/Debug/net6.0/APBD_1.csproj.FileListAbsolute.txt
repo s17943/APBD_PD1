@@ -1,0 +1,15 @@
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\bin\Debug\net6.0\APBD_1.exe
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\bin\Debug\net6.0\APBD_1.deps.json
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\bin\Debug\net6.0\APBD_1.runtimeconfig.json
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\bin\Debug\net6.0\APBD_1.dll
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\bin\Debug\net6.0\APBD_1.pdb
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.csproj.AssemblyReference.cache
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.AssemblyInfoInputs.cache
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.AssemblyInfo.cs
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.csproj.CoreCompileInputs.cache
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.dll
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\refint\APBD_1.dll
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.pdb
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\APBD_1.genruntimeconfig.cache
+C:\Users\Jasiek\RiderProjects\APBD_PD1\APBD_1\obj\Debug\net6.0\ref\APBD_1.dll
